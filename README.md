@@ -1,6 +1,5 @@
 # Note
-꾸준히 정리해왔던 자료들 📚    
-노션을 사용합니다.
+내 자료들 📚
 
 ## Java
 https://ndsudd.notion.site/Queue-0c7e86807d9d41ef95cd9cb4240696e0
